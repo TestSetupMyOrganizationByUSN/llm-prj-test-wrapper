@@ -1,6 +1,3 @@
-// gg https://expressjs.com/
-// https://expressjs.com/en/resources/middleware/cors.html
-
 require("dotenv").config();
 
 const express = require("express");
